@@ -13,15 +13,6 @@ This is a simple yet thoughtfully crafted **Python GUI app** to convert temperat
 - 🚫 Prevents invalid entries with smart input validation
 - 🔄 Refresh the form instantly with a reset button
 - 📏 Handles scientific temperature limits (e.g., absolute zero!)
-
----
-
-## 📸 Quick Look
-
-> *(Add a screenshot of your app here if you'd like)*
-
----
-
 ## 🛠️ Built With
 
 - **Python 3.x**
