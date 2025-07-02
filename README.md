@@ -1,7 +1,7 @@
 
 # Temperature Converter App
 
-Hey there! 👋  
+Hey there! 
 This is a simple yet thoughtfully crafted **Python GUI app** to convert temperatures between **Celsius, Fahrenheit, and Kelvin**. Whether you're a student, developer, or just curious about temperatures, this app makes it super easy and intuitive.
 
 ---
